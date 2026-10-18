@@ -4,7 +4,7 @@
 # 🚀 My First AI App 
 
 
-**CloudWithShad | Get Skills Network | Shadrack Darku**
+**CloudWithShad | Get Skills Network | Bright Curutis**
 
 From Python notebooks to a working, deployed AI application.
 =======
