@@ -4,7 +4,7 @@
 # 🚀 My First AI App 
 
 
-**CloudWithShad | Get Skills Network | Bright Curutis**
+**CloudWithShad | Get Skills Network | Bright Curtis**
 
 From Python notebooks to a working, deployed AI application.
 =======
